@@ -16,5 +16,10 @@ int main(){
 	si = p * n * r / 100;
 
 	printf("%f\n", si);
+	
+	/* %f for printing real values */
+	/* %d for printing integer values */
+	/* %c for printing constant values */
+	
 	return 0;
 }
