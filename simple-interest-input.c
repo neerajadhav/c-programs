@@ -8,18 +8,13 @@ int main(){
 	int p,n;
 	float r, si;
 
-	p = 1000;
-	n = 3;
-	r = 805;
+	printf("Enter values for p, n, r");
+	scanf("%d %d %f", &p, &n, &r);
 
 	/* Formula for simple interest */
 	si = p * n * r / 100;
 
 	printf("%f\n", si);
-
-	/* %f for printing real values */
-	/* %d for printing integer values */
-	/* %c for printing constant values */
 
 	return 0;
 }
