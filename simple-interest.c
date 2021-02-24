@@ -2,6 +2,10 @@
 /* Author : Neeraj Adhav */
 /* Date : 20/2/2021 */
 
+/* simply calculate the simple interest
+ for a set of values representing 
+ principle, number of years and rate of interest */
+
 #include <stdio.h>
 
 int main(){

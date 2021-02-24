@@ -2,6 +2,11 @@
 /* Author : Neeraj Adhav */
 /* Date : 20/2/2021 */
 
+/* the programitself should ask the user to supply the values
+ of  p, n and r through the keyboard during execution.
+ This can be achieved using a funstion called scanf().
+ This function is counterpart of the printf() function. */
+
 #include <stdio.h>
 
 int main(){

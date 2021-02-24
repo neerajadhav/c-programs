@@ -1,3 +1,12 @@
+/* calculation of bonus */
+/* Author : Neeraj Adhav */
+/* Date : 24/2/2021 */
+
+/* The current year and the year in which the employee joined the organisation
+ are entered through the keyboard. If the number of years foir which the employee has serverd
+ the organization is greater than 3, then a bonus of Rs. 2500/- is given to the employee.
+ If the years of service are not greater than 3, then the program should do nothing */
+
 #include <stdio.h>
 
 int main(){
